@@ -1,16 +1,46 @@
-# Ruta de aprendizaje: Backend con C# y .NET
+### Ruta de aprendizaje: Administración de Servidores
+
+- **6 Cursos (100% visto)**
+
+1. Curso de Introducción a la Terminal y Línea de Comandos - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/2292-terminal/diploma/detalle/)
+2. Curso Profesional de Git y GitHub - [Descargar Diploma](URL_DEL_DIPLOMA)
+3. Fundamentos de Ingeniería de Software - [Descargar Diploma](URL_DEL_DIPLOMA)
+4. Curso de Introducción a la Administración de Servidores Linux - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/5877-linux/diploma/detalle/)
+5. Curso de Administración de Servidores Linux: Manejo de Recursos - [Descargar Diploma](URL_DEL_DIPLOMA)
+6. Curso de Introducción al Desarrollo Backend - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/4656-backend/diploma/detalle/)
+
+### Ruta de aprendizaje: Desarrollo con ASP.NET
+
+- **14 Cursos (100% visto)**
+
+1. Curso Gratis de Programación Básica - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/3208-programacion-basica/diploma/detalle/)
+2. Curso Profesional de Git y GitHub - [Descargar Diploma](URL_DEL_DIPLOMA)
+3. Curso de Introducción a C# con .NET 3.1 - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/2198-csharp-introduccion/diploma/detalle/)
+4. Curso Básico de Programación con C# - [Descargar Diploma](URL_DEL_DIPLOMA)
+5. Curso de Fundamentos de .NET - [Descargar Diploma](URL_DEL_DIPLOMA)
+6. Fundamentos de C# con NET Core 2.1 - [Descargar Diploma](URL_DEL_DIPLOMA)
+7. Curso de C# con .Net Core 2.1 - [Descargar Diploma](URL_DEL_DIPLOMA)
+8. Curso de Fundamentos de Entity Framework - [Descargar Diploma](URL_DEL_DIPLOMA)
+9. Curso de APIs con .NET - [Descargar Diploma](URL_DEL_DIPLOMA)
+10. Curso de Manejo de Datos en C# con LINQ - [Descargar Diploma](URL_DEL_DIPLOMA)
+11. Curso de Desarrollo Web con Blazor y .Net Core 3 - [Descargar Diploma](URL_DEL_DIPLOMA)
+12. Curso de Web Apps y Logic Apps en Azure - [Descargar Diploma](URL_DEL_DIPLOMA)
+13. Curso de Azure DevOps: Flujos de CI/CD - [Descargar Diploma](URL_DEL_DIPLOMA)
+14. Curso Práctico de Arquitectura Backend - [Descargar Diploma](URL_DEL_DIPLOMA)
+
+### Ruta de aprendizaje: Backend con C# y .NET
 
 - **12 Cursos (100% visto)**
 
-1. Curso Básico de Programación con C# 
-2. Curso de Programación Orientada a Objetos con C# 
-3. Curso de Buenas Prácticas y Código Limpio en C# 
-4. Curso de Principios SOLID en C# y .NET 
-5. Curso de Manejo de Datos en C# con LINQ 
-6. Curso de Fundamentos de .NET 
-7. Curso de Fundamentos de Entity Framework 
-8. Curso de APIs con .NET 
-9. Curso de Unit Testing con C# y .NET 
-10. Curso de Aplicaciones Web con Blazor WebAssembly y .NET 
-11. Curso de Azure DevOps: Flujos de CI/CD 
-12. Curso Práctico de Arquitectura Backend 
+1. Curso Básico de Programación con C# - [Descargar Diploma](URL_DEL_DIPLOMA)
+2. Curso de Programación Orientada a Objetos con C# - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/8036-c-sharp-poo/diploma/detalle/)
+3. Curso de Buenas Prácticas y Código Limpio en C# - [Descargar Diploma](URL_DEL_DIPLOMA)
+4. Curso de Principios SOLID en C# y .NET - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/4761-solid-csharp-net/diploma/detalle/)
+5. Curso de Manejo de Datos en C# con LINQ - [Descargar Diploma](URL_DEL_DIPLOMA)
+6. Curso de Fundamentos de .NET - [Descargar Diploma](URL_DEL_DIPLOMA)
+7. Curso de Fundamentos de Entity Framework - [Descargar Diploma](URL_DEL_DIPLOMA)
+8. Curso de APIs con .NET - [Descargar Diploma](URL_DEL_DIPLOMA)
+9. Curso de Unit Testing con C# y .NET - [Descargar Diploma](https://platzi.com/p/ofespinosaa/curso/7995-unit-testing-csharp/diploma/detalle/)
+10. Curso de Aplicaciones Web con Blazor WebAssembly y .NET - [Descargar Diploma](URL_DEL_DIPLOMA)
+11. Curso de Azure DevOps: Flujos de CI/CD - [Descargar Diploma](URL_DEL_DIPLOMA)
+12. Curso Práctico de Arquitectura Backend - [Descargar Diploma](URL_DEL_DIPLOMA)
